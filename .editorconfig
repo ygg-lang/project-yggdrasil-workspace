@@ -1,0 +1,13 @@
+[*]
+charset = utf-8
+indent_style = space
+end_of_line = lf
+
+[*.{yg, ygg}]
+indent_size = 4
+
+[*.test.yg]
+indent_size = 2
+
+[*.{toml,json}]
+indent_size = 4
