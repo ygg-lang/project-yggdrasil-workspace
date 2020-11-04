@@ -1,0 +1,3 @@
+[submodule "projects/project-yggdrasil"]
+	path = projects/project-yggdrasil
+	url = https://github.com/ygg-lang/project-yggdrasil.git

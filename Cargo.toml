@@ -1,11 +1,10 @@
 [workspace]
 members = ["projects/*"]
 default-members = [
-    "projects/sub_projects",
+    "projects/project-yggdrasil",
 ]
 exclude = [
-    "projects/.DS_Store",
-    "projects/.DS_Store",
+
 ]
 
 [profile.release]
